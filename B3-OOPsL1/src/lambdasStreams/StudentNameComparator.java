@@ -1,4 +1,4 @@
-package collections;
+package lambdasStreams;
 
 import java.util.Comparator;
 
